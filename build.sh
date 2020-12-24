@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build --no-cache -t nilsramsperger/insurgency-coop-dedicated .
+docker build --no-cache -t zoellert/insurgency-coop-dedicated .
